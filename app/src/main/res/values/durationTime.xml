@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="durationTime">
+        <item>3h10m</item>
+        <item>1h42m</item>
+        <item>2h41m</item>
+        <item>2h05m</item>
+        <item>2h13m</item>
+        <item>1h30m</item>
+        <item>1h50m</item>
+        <item>2h08m</item>
+        <item>2h26m</item>
+        <item>2h10m</item>
+        <item>2h04m</item>
+        <item>1h48m</item>
+        <item>2h55m</item>
+        <item>1h44m</item>
+        <item>2h10m</item>
+    </string-array>
+</resources>

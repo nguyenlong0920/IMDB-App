@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="director">
+        <item>James Cameron</item>
+        <item>Paul Leyden</item>
+        <item>Ryan Coogler</item>
+        <item>Jaume Collet-Serra</item>
+        <item>Taika Waititi</item>
+        <item>Kyle Balda</item>
+        <item>Patrick Hughes</item>
+        <item>Colin Trevorrow</item>
+        <item>Joseph Kosinski</item>
+        <item>Sam Raimi</item>
+        <item>Rosalind Ross</item>
+        <item>Daniel Espinosa</item>
+        <item>Matt Reeves</item>
+        <item>Mark Williams</item>
+        <item>Roland Emmerich</item>
+    </string-array>
+</resources>

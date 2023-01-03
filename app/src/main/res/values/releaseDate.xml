@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="releaseDate">
+        <item>16/12/2022</item>
+        <item>15/11/2022</item>
+        <item>11/11/2022</item>
+        <item>21/10/2022</item>
+        <item>08/07/2022</item>
+        <item>01/07/2022</item>
+        <item>24/06/2022</item>
+        <item>10/06/2022</item>
+        <item>27/05/2022</item>
+        <item>06/05/2022</item>
+        <item>15/04/2022</item>
+        <item>01/04/2022</item>
+        <item>04/03/2022</item>
+        <item>11/02/2022</item>
+        <item>04/02/2022</item>
+    </string-array>
+</resources>

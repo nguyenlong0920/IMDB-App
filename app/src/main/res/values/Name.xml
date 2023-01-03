@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Name">
+        <item>Avatar: The Way of Water</item>
+        <item>R.I.P.D. 2: Rise of the Damned</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Black Adam</item>
+        <item>THOR: LOVE AND THUNDER</item>
+        <item>Minions: The Rise of Gru</item>
+        <item>The Man from Toronto</item>
+        <item>Jurassic World: Dominion</item>
+        <item>Top Gun: Maverick</item>
+        <item>Doctor Strange in the Multiverse of Madness</item>
+        <item>Father Stu</item>
+        <item>Morbius</item>
+        <item>The Batman</item>
+        <item>Blacklight</item>
+        <item>Moonfall</item>
+    </string-array>
+</resources>

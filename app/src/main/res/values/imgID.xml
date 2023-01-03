@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="imgID">
+        <item>@drawable/avatar</item>
+        <item>@drawable/ripd2</item>
+        <item>@drawable/blackpanther</item>
+        <item>@drawable/blackadam</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/minion</item>
+        <item>@drawable/themanfromtoronto</item>
+        <item>@drawable/jurassicworlddominion</item>
+        <item>@drawable/topgun</item>
+        <item>@drawable/doctorstrange</item>
+        <item>@drawable/fatherstu</item>
+        <item>@drawable/morbius</item>
+        <item>@drawable/thebatman</item>
+        <item>@drawable/blacklight</item>
+        <item>@drawable/moonfall</item>
+    </integer-array>
+</resources>
