@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="imgID2">
+        <item>@drawable/breakingbad</item>
+        <item>@drawable/gameofthrones</item>
+        <item>@drawable/rickandmorty</item>
+        <item>@drawable/sherlock</item>
+        <item>@drawable/batman</item>
+        <item>@drawable/attackontitan</item>
+        <item>@drawable/theoffice</item>
+        <item>@drawable/deathnote</item>
+        <item>@drawable/bettercallsaul</item>
+        <item>@drawable/friends</item>
+        <item>@drawable/theboys</item>
+        <item>@drawable/thesimpsons</item>
+        <item>@drawable/strangerthings</item>
+        <item>@drawable/invincible</item>
+        <item>@drawable/startrek</item>
+    </integer-array>
+</resources>

@@ -16,9 +16,7 @@ import java.util.ArrayList;
 public class ListAdapter extends ArrayAdapter<Movie> {
 
     public ListAdapter(Context context, ArrayList<Movie> movieArrayList) {
-
         super(context,R.layout.list_nowshowing,movieArrayList);
-
     }
 
     @NonNull

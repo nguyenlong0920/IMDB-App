@@ -1,16 +1,17 @@
 package vn.edu.usth.imdbapp;
 
+import android.app.LauncherActivity;
 import android.content.Intent;
 import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+
 
 import java.util.ArrayList;
 
@@ -69,9 +70,10 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.movie_menu, menu);
-        return true ;
+
+        getMenuInflater().inflate(R.menu.movie_menu,menu);
+        return true;
+
     }
 
     @Override

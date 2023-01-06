@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="imgID1">
+        <item>@drawable/godfather</item>
+        <item>@drawable/schindlerlist</item>
+        <item>@drawable/angrymen</item>
+        <item>@drawable/lifeisbeautiful</item>
+        <item>@drawable/thegood</item>
+        <item>@drawable/theshawshank</item>
+        <item>@drawable/thepursuit</item>
+        <item>@drawable/sevensamurai</item>
+        <item>@drawable/untouchable</item>
+        <item>@drawable/centralstation</item>
+        <item>@drawable/thedarknight</item>
+        <item>@drawable/judgementday</item>
+        <item>@drawable/savingprivateryan</item>
+        <item>@drawable/gladiator</item>
+        <item>@drawable/backtothefuture</item>
+    </integer-array>
+</resources>

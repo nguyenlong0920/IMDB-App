@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="releaseDate1">
+        <item>14/03/1972</item>
+        <item>30/11/1993</item>
+        <item>10/04/1957</item>
+        <item>20/12/1997</item>
+        <item>23/12/1966</item>
+        <item>10/09/1994</item>
+        <item>15/12/2006</item>
+        <item>26/04/1954</item>
+        <item>23/09/2011</item>
+        <item>16/01/1998</item>
+        <item>14/07/2008</item>
+        <item>01/07/1991</item>
+        <item>21/07/1998</item>
+        <item>01/05/2000</item>
+        <item>03/07/1985</item>
+    </string-array>
+</resources>

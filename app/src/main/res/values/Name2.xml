@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Name2">
+        <item>Breaking Bad</item>
+        <item>Game of Thrones</item>
+        <item>Rick and Morty</item>
+        <item>Sherlock</item>
+        <item>Batman: The Animated Series</item>
+        <item>Attack on Titan</item>
+        <item>The Office</item>
+        <item>Death Note</item>
+        <item>Better Call Saul</item>
+        <item>Friends</item>
+        <item>The Boys</item>
+        <item>The Simpsons</item>
+        <item>Stranger Things</item>
+        <item>Invincible</item>
+        <item>Star Trek: The Next Generation</item>
+    </string-array>
+</resources>

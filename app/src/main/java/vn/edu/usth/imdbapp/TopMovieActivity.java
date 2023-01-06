@@ -7,17 +7,18 @@ import android.widget.ImageButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import vn.edu.usth.imdbapp.databinding.ActivityNowshowingBinding;
+import vn.edu.usth.imdbapp.databinding.ActivityTopmovieBinding;
 
-public class MovieActivity extends AppCompatActivity {
 
-    ActivityNowshowingBinding binding;
+public class TopMovieActivity extends AppCompatActivity {
+
+    ActivityTopmovieBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        binding = ActivityNowshowingBinding.inflate(getLayoutInflater());
+        binding = ActivityTopmovieBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
         ImageButton btn = (ImageButton) findViewById(R.id.btnBack);
@@ -25,7 +26,7 @@ public class MovieActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MovieActivity.this, MainActivity.class));
+                startActivity(new Intent(TopMovieActivity.this, PopularActivity.class));
             }
         });
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="director2">
+        <item>Vince Gilligan</item>
+        <item>David Benioff</item>
+        <item>Dan Harmon</item>
+        <item>Mark Gatiss</item>
+        <item>Bob Kane</item>
+        <item>Marina Inoue</item>
+        <item>Greg Daniels</item>
+        <item>Shûsuke Kaneko</item>
+        <item>Vince Gilligan</item>
+        <item>David Crane</item>
+        <item>Eric Kripke</item>
+        <item>James L. Brooks</item>
+        <item>Millie Bobby Brown</item>
+        <item>Robert Kirkman</item>
+        <item>Gene Roddenberry</item>
+    </string-array>
+</resources>

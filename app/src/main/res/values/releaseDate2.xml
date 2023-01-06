@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="releaseDate2">
+        <item>2008–2013</item>
+        <item>2011–2019</item>
+        <item>2013-Now</item>
+        <item>2010-2017</item>
+        <item>1992-1995</item>
+        <item>2013-Now</item>
+        <item>2005-2013</item>
+        <item>2006-2007</item>
+        <item>2015-2022</item>
+        <item>1994-2004</item>
+        <item>2019-Now</item>
+        <item>1989-Now</item>
+        <item>2016-Now</item>
+        <item>2021-Now</item>
+        <item>1987-1994</item>
+    </string-array>
+</resources>

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MovieActivity"
+    tools:context=".TopMovieActivity"
     android:background="#626964">
 
     <RelativeLayout
@@ -18,15 +18,16 @@
             android:background="@null"
             android:id="@+id/btnBack"/>
 
+
         <TextView
-            android:id="@+id/txtNowShowing"
+            android:id="@+id/txtTopMovie"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerVertical="true"
             android:layout_marginTop="27dp"
             android:layout_toRightOf="@+id/btnBack"
-            android:text="Now Showing"
+            android:text="Top Movie"
             android:textColor="#ffffff"
             android:textSize="25dp"
             android:textStyle="bold"/>

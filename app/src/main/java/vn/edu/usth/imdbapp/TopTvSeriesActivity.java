@@ -7,17 +7,18 @@ import android.widget.ImageButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import vn.edu.usth.imdbapp.databinding.ActivityNowshowingBinding;
+import vn.edu.usth.imdbapp.databinding.ActivityTopmovieBinding;
+import vn.edu.usth.imdbapp.databinding.ActivityToptvseriesBinding;
 
-public class MovieActivity extends AppCompatActivity {
+public class TopTvSeriesActivity extends AppCompatActivity {
 
-    ActivityNowshowingBinding binding;
+    ActivityToptvseriesBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        binding = ActivityNowshowingBinding.inflate(getLayoutInflater());
+        binding = ActivityToptvseriesBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
         ImageButton btn = (ImageButton) findViewById(R.id.btnBack);
@@ -25,7 +26,7 @@ public class MovieActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MovieActivity.this, MainActivity.class));
+                startActivity(new Intent(TopTvSeriesActivity.this, PopularActivity.class));
             }
         });
 
@@ -51,4 +52,5 @@ public class MovieActivity extends AppCompatActivity {
 
         }
     }
+
 }

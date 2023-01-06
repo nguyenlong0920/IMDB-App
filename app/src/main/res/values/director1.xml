@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="director1">
+        <item>Francis Ford Coppola</item>
+        <item>Steven Spielberg</item>
+        <item>Sidney Lumet</item>
+        <item>Roberto Benigni</item>
+        <item>Sergio Leone</item>
+        <item>Frank Darabont</item>
+        <item>Gabriele Muccino</item>
+        <item>Akira Kurosawa</item>
+        <item>Olivier Nakache</item>
+        <item>Walter Salles</item>
+        <item>Christopher Nolan</item>
+        <item>James Cameron</item>
+        <item>Steven Spielberg</item>
+        <item>Ridley Scott</item>
+        <item>Robert Zemeckis</item>
+    </string-array>
+</resources>

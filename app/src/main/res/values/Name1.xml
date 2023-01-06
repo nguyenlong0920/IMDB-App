@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Name1">
+        <item>The Godfather</item>
+        <item>Schindler\'s List</item>
+        <item>12 Angry Men</item>
+        <item>Life Is Beautiful</item>
+        <item>The Good, the Bad and the Ugly</item>
+        <item>The Shawshank Redemption</item>
+        <item>The Pursuit of Happyness</item>
+        <item>Seven Samurai</item>
+        <item>Untouchable</item>
+        <item>Central Station</item>
+        <item>The Dark Knight</item>
+        <item>Terminator 2: Judgment Day</item>
+        <item>Saving Private Ryan</item>
+        <item>Gladiator</item>
+        <item>Back to the Future</item>
+    </string-array>
+</resources>
